@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm G4zp
 
 # 💫 About Me:
 📍 Location: Madrid - Spain<br>🌱 Current Learning: Prompt engineering, software development, etc.<br>💬 Ask me about: Software, videogames, footbal and software development.<br>⚡️ Fun fact: My favorite videogame is The Legend Of Zelda Majora's Mask
