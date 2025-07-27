@@ -3,6 +3,10 @@
 # 💫 About Me:
 📍 Location: Madrid - Spain<br>🌱 Current Learning: Prompt engineering, software development, etc.<br>💬 Ask me about: Software, videogames, footbal and software development.<br>⚡️ Fun fact: My favorite videogame is The Legend Of Zelda Majora's Mask
 
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavo_azpurua) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gustavo.az) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geazpuruac@gmail.com) 
