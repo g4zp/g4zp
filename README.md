@@ -5,7 +5,15 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [g4zp/g4zp](https://github.com/g4zp/g4zp)<br>
+2. ⬆️ Pushed 1 commit(s) to [g4zp/g4zp](https://github.com/g4zp/g4zp)<br>
+3. ⬆️ Pushed 1 commit(s) to [g4zp/g4zp](https://github.com/g4zp/g4zp)<br>
+4. ⬆️ Pushed 1 commit(s) to [g4zp/g4zp](https://github.com/g4zp/g4zp)<br>
+5. ⬆️ Pushed 1 commit(s) to [g4zp/g4zp](https://github.com/g4zp/g4zp)<br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, July 27th, 2025, 3:06:12 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavo_azpurua) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gustavo.az) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geazpuruac@gmail.com) 
